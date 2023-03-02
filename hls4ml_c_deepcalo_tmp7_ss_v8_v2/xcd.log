@@ -1,0 +1,16 @@
+Wed May 19 01:42:23 2021: Server was asked to start on port: '44817'
+Wed May 19 01:42:23 2021: Server is using token UUID: '92a5afb8-0609-47d5-8f27-09549632151f'
+Wed May 19 01:42:23 2021: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Wed May 19 01:42:23 2021: Attempting to start server on port '44817'
+Wed May 19 01:42:23 2021: XCD main fifo: created main fifo '/tmp/xcdmain92a5afb8-0609-47d5-8f27-09549632151f', fd read = 11
+Wed May 19 01:42:23 2021: Running Dispatch Server
+Wed May 19 01:42:23 2021: Version 1.0.1
+Wed May 19 01:42:23 2021: Dispatch Server: Accepted socket connection from client
+Wed May 19 01:42:23 2021: EXCHANGE_TOKEN received, server token: 92a5afb8-0609-47d5-8f27-09549632151f, passed token: 92a5afb8-0609-47d5-8f27-09549632151f
+Wed May 19 01:42:23 2021: SESSION_MGR: creating session with session uuid: '6c0fc11f-c33e-44ae-959f-b9e14ed996dc' and name 'v++_link_alveo_hls4ml'
+Wed May 19 01:42:56 2021: Dispatch Server: Accepted socket connection from client
+Wed May 19 01:42:59 2021: Dispatch Server: Accepted socket connection from client
+Wed May 19 05:32:12 2021: Dispatch Server: Accepted socket connection from client
+Wed May 19 07:35:37 2021: Dispatch Server: Accepted socket connection from client
+Wed May 19 14:36:18 2021: Dispatch Server: Accepted socket connection from client
+Wed May 19 14:52:03 2021: SESSION_MGR: closing session for UUID '6c0fc11f-c33e-44ae-959f-b9e14ed996dc' with name 'v++_link_alveo_hls4ml'
